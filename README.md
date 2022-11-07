@@ -39,8 +39,11 @@
 <p align="center">
 
 [//]: # (  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazchanel&langs_count=5&theme=gotham&border_radius=20&border_color=960606&card_width=500"  alt=""/>)
-<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nazchanel&layout=compact&theme=gotham&border_radius=20&border_color=960606&custom_title=Coding%20Time&card_width=999"  alt=""/>
 </p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nazchanel&layout=compact&theme=gotham&border_radius=20&border_color=960606&custom_title=Coding%20Time&card_width=999"  alt=""/>
+  </p>
 
 ![Glowing Bar](/assets/glowing-bar.gif)
 
