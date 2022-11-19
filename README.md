@@ -5,11 +5,16 @@
 
 
 
-## 👋 Hi, I’m @Nazchanel or Eshan I.👋
+## 👋 Hi, I’m [@Nazchanel](https://github.com/Nazchanel) or Eshan I.👋
 
-- 🤖 I’m interested in Machine Learning, Python, and Web Development
-- 🌐 Check out my personal portfolio and website @ [eshaniyer.tech](https://eshaniyer.tech)
-- 📫 Email me at [admin@eshaniyer.tech](mailto:admin@eshaniyer.tech)
+- I am a passionate coder who hopes to use code to help the world for the better
+- I am fluent in  Python, R, Java, Swift, HTML, CSS, and JavaScript
+- I am a junior in high school
+- I love to debate and discuss societal structure and politics
+  - I am free to debate and discuss with anyone who is willing to listen on Discord
+ 
+<br>
+<!--suppress ALL -->
 <p align="center">
 
 <a href="https://eshaniyer.tech" target="_blank">
@@ -21,42 +26,32 @@
 <a href="https://twitter.com/eshaniyer06" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
+<a href="https://discord.gg/user/Oblivian_Fired#0338" target="_blank">
+<img src=https://img.shields.io/badge/Discord-5865f2?&style=for-the-badge&logo=Discord&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+</a>
+<a href="https://open.spotify.com/user/iyereshan" target="_blank">
+<img src=https://img.shields.io/badge/Spotify-1ccc5b?&style=for-the-badge&logo=&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+</a>
+
 <a href="mailto:admin@eshaniyer.tech" target="_blank">
-<img src=https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
 
 </p>
 
 ![Glowing Bar](/assets/glowing-bar.gif)
-# Coding Statistics
+# *Coding Statistics*
 
+---
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nazchanel&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats"  alt=""/> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nazchanel&theme=tokyonight"  alt=""/>
+<p align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=Nazchanel&show_icons=true&theme=gotham&border_radius=20&border_color=960606&custom_title=GitHub%20Stats&hide_rank=true"  alt=""/> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazchanel&langs_count=5&theme=gotham&border_radius=20&border_color=960606&card_width=500&card_height=30"  alt=""/>
 
 </p>
 <p align="center">
 
-[//]: # (  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazchanel&langs_count=5&theme=gotham&border_radius=20&border_color=960606&card_width=500"  alt=""/>)
+<img width="68%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nazchanel&layout=compact&theme=gotham&border_radius=20&border_color=960606&custom_title=Coding%20Time&card_width="  alt=""/>
 </p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nazchanel&layout=compact&theme=gotham&border_radius=20&border_color=960606&custom_title=Coding%20Time&card_width=999"  alt=""/>
-  </p>
 
 ![Glowing Bar](/assets/glowing-bar.gif)
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
