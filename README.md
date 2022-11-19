@@ -18,7 +18,7 @@
 <p align="center">
 
 <a href="https://eshaniyer.tech" target="_blank">
-<img src=https://img.shields.io/badge/website-1b5568?&style=for-the-badge&logo=world&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/website-1b5568?&style=for-the-badge&logo=html5&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
 <a href="https://www.linkedin.com/in/kulfieshan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
@@ -30,11 +30,11 @@
 <img src=https://img.shields.io/badge/Discord-5865f2?&style=for-the-badge&logo=Discord&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
 <a href="https://open.spotify.com/user/iyereshan" target="_blank">
-<img src=https://img.shields.io/badge/Spotify-1ccc5b?&style=for-the-badge&logo=&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/Spotify-46d864?&style=for-the-badge&logo=Spotify&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
 
 <a href="mailto:admin@eshaniyer.tech" target="_blank">
-<img src=https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
 
 </p>
