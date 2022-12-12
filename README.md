@@ -51,7 +51,7 @@
 </p>
 <p align="center">
 
-<img width="68%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nazchanel&layout=compact&theme=gotham&border_radius=20&border_color=960606&custom_title=Coding%20Time&card_width="  alt=""/>
+<img width="68%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nazchanel&layout=compact&theme=gotham&border_radius=20&border_color=960606&custom_title=Coding%20Time&langs_count=6"  alt=""/>
 </p>
 
 ![Glowing Bar](/assets/glowing-bar.gif)
