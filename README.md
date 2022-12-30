@@ -11,8 +11,7 @@
 - I am fluent in  Python, R, Java, Swift, HTML, CSS, and JavaScript
 - I am a junior in high school
 - I love to debate and discuss societal structure and politics
-  - I am free to debate and discuss with anyone who is willing to listen on Discord
- 
+
 <br>
 <!--suppress ALL -->
 <p align="center">
