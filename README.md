@@ -25,11 +25,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
 <a href="https://discord.gg/user/Oblivian_Fired#0338" target="_blank">
-<img src=https://img.shields.io/badge/Discord-5865f2?&style=for-the-badge&logo=Discord&logoColor=white alt=twitter style="margin-bottom: 10px;" />
-</a>
-<a href="https://open.spotify.com/user/iyereshan" target="_blank">
-<img src=https://img.shields.io/badge/Spotify-46d864?&style=for-the-badge&logo=Spotify&logoColor=white alt=twitter style="margin-bottom: 10px;" />
-</a>
 
 <a href="mailto:admin@eshaniyer.tech" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 10px;" />
