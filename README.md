@@ -16,17 +16,16 @@
 <p align="center">
 
 <a href="https://eshaniyer.tech" target="_blank">
-<img src=https://img.shields.io/badge/website-1b5568?&style=for-the-badge&logo=html5&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/website-1b5568?&style=for-the-badge&logo=html5&logoColor=white alt=website style="margin-bottom: 10px;" />
 </a>
 <a href="https://www.linkedin.com/in/kulfieshan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>
 <a href="https://twitter.com/eshaniyer06" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
-<a href="https://discord.gg/user/Oblivian_Fired#0338" target="_blank">
 
-<a href="mailto:admin@eshaniyer.tech" target="_blank">
+<a href="mailto:eshaniyer@duck.com" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
 
@@ -46,5 +45,11 @@
 
 <img width="68%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nazchanel&layout=compact&theme=gotham&border_radius=20&border_color=960606&custom_title=Coding%20Time&langs_count=6"  alt=""/>
 </p>
+
+![Glowing Bar](/assets/glowing-bar.gif)
+
+# *Music*
+
+<div style="left: 0; width: 90%; height: 550px; position: relative;"><iframe src="https://open.spotify.com/embed/playlist/5yV9nOjPJBjeR6Wg2Zf7Yn?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
 
 ![Glowing Bar](/assets/glowing-bar.gif)
