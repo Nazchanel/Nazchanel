@@ -47,9 +47,3 @@
 </p>
 
 ![Glowing Bar](/assets/glowing-bar.gif)
-
-# *Music*
-
-<div style="left: 0; width: 90%; height: 550px; position: relative;"><iframe src="https://open.spotify.com/embed/playlist/5yV9nOjPJBjeR6Wg2Zf7Yn?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
-
-![Glowing Bar](/assets/glowing-bar.gif)
