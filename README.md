@@ -15,7 +15,7 @@
 <!--suppress ALL -->
 <p align="center">
 
-<a href="https://eshaniyer.tech" target="_blank">
+<a href="https://eshaniyer.com" target="_blank">
 <img src=https://img.shields.io/badge/website-1b5568?&style=for-the-badge&logo=html5&logoColor=white alt=website style="margin-bottom: 10px;" />
 </a>
 <a href="https://www.linkedin.com/in/kulfieshan" target="_blank">
