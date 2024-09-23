@@ -9,7 +9,7 @@
 
 - I am a passionate coder who hopes to use code to help the world for the better
 - I am fluent in  Python, R, Java, Swift, HTML, CSS, and JavaScript
-- Starting undergraduate studies in Fall 2024
+- Undergraduate Freshman in Computer Science at the University of Maryland College Park
 
 <br>
 <!--suppress ALL -->
