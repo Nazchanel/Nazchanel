@@ -38,13 +38,14 @@
   <img width="38%" src="https://github-readme-stats.vercel.app/api?username=Nazchanel&show_icons=true&theme=gotham&border_radius=20&border_color=960606&custom_title=GitHub%20Stats&hide_rank=true"  alt=""/> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazchanel&langs_count=5&theme=gotham&border_radius=20&border_color=960606&card_width=500&card_height=30"  alt=""/>
 
-# Currently Playing Song
-![]()
 
 </p>
 <p align="center">
 
 <img width="68%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nazchanel&layout=compact&theme=gotham&border_radius=20&border_color=960606&custom_title=Coding%20Time&langs_count=6"  alt=""/>
 </p>
+
+# Currently Playing Song
+![]()
 
 ![Glowing Bar](/assets/glowing-bar.gif)
