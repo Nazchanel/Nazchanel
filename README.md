@@ -12,7 +12,7 @@
 - Undergraduate Freshman in Computer Science at the University of Maryland College Park
 
 <br>
-<!--suppress ALL -->
+
 <p align="center">
 
 <a href="https://eshaniyer.com" target="_blank">
@@ -46,13 +46,13 @@
 </p>
 
 # Currently Playing Song
-<div style="text-align: center;">
+<p align="center">
   <a href="https://nazchanel.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark">
     <img
       src="https://nazchanel.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark"
       alt="Current Spotify Song"
     />
   </a>
-</div>
+</p>
 
 ![Glowing Bar](/assets/glowing-bar.gif)
