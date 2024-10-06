@@ -1,8 +1,7 @@
 ![Glowing Bar](/assets/glowing-bar.gif)
 
 
-![image](/assets/banner.png)
-
+<!-- ![image](/assets/banner.png) -->
 
 
 ## 👋 Hi, I’m [@Nazchanel](https://github.com/Nazchanel) or Eshan I.👋
