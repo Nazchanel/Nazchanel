@@ -48,7 +48,7 @@
 <p align="center">
   <a href="https://nazchanel.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark">
     <img
-      src="https://nazchanel.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark"
+      src="https://nazchanel.pythonanywhere.com/?eq_color=rainbow&theme=dark"
       alt="Current Spotify Song"
     />
   </a>
