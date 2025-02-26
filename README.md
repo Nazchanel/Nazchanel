@@ -44,9 +44,9 @@
 ![Glowing Bar](/assets/glowing-bar.gif) 
 # *Currently Playing Song*
 <p align="center">
-  <a href="https://nazchanel.pythonanywhere.com/?eq_color=rainbow&theme=dark">
+  <a href="https://nazchanel.pythonanywhere.com/?eq_color=rainbow&theme=dark&timeline=true">
     <img
-      src="https://nazchanel.pythonanywhere.com/?eq_color=rainbow&theme=dark"
+      src="https://nazchanel.pythonanywhere.com/?eq_color=rainbow&theme=dark&timeline=true"
       alt="Current Spotify Song"
     />
   </a>
