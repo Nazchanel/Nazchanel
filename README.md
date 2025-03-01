@@ -16,11 +16,6 @@
 
 <br>
 
-<img
-  width="100%"
-  alt="Rainbow"
-  src="assets/glowing-bar-new.gif"
-/>
 <p align="center">
 
 <a href="https://eshaniyer.com" target="_blank">
