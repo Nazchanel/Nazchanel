@@ -33,7 +33,11 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 alt=twitter style="margin-bottom: 10px;" />
 </a>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 </p>
+
 
 <img
   width="100%"
@@ -76,8 +80,3 @@
   alt="Rainbow"
   src="assets/glowing-bar-new.gif"
 />
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
