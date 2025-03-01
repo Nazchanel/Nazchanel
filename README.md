@@ -10,13 +10,17 @@
 
 ## 👋 Hi, I’m [@Nazchanel](https://github.com/Nazchanel) or Eshan I.👋
 
-- I am a passionate coder who hopes to use code to help the world for the better
-- I am fluent in  Python, R, Java, Swift, HTML, CSS, and JavaScript
+- I am a passionate coder who hopes to use code to make the world a better place
+- I use  Python, R, Java, Swift, HTML, CSS, and JavaScript and more
 - Undergraduate Freshman in Computer Science at the University of Maryland College Park
-- Debian User with KDE
 
 <br>
 
+<img
+  width="100%"
+  alt="Rainbow"
+  src="assets/glowing-bar-new.gif"
+/>
 <p align="center">
 
 <a href="https://eshaniyer.com" target="_blank">
