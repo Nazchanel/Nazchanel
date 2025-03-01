@@ -44,7 +44,7 @@
 # *Coding Statistics*
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=Nazchanel&show_icons=true&theme=gotham&border_radius=20&border_color=960606&custom_title=GitHub%20Stats&hide_rank=true"  alt=""/> 
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=Nazchanel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=20&border_color=960606&custom_title=GitHub%20Stats&hide_rank=true" alt="Nazchanel GitHub stats"> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazchanel&langs_count=5&theme=gotham&border_radius=20&border_color=960606&card_width=500&card_height=30"  alt=""/>
 
 
@@ -76,3 +76,8 @@
   alt="Rainbow"
   src="assets/glowing-bar-new.gif"
 />
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
