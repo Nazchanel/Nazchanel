@@ -1,4 +1,8 @@
-![Glowing Bar](/assets/glowing-bar-new.gif)
+<img
+  width="100%"
+  alt="Rainbow"
+  src="assets/glowing-bar-new.gif"
+/>
 
 
 <!-- ![image](/assets/banner.png) -->
@@ -27,7 +31,12 @@
 
 </p>
 
-![Glowing Bar](/assets/glowing-bar-new.gif)
+<img
+  width="100%"
+  alt="Rainbow"
+  src="assets/glowing-bar-new.gif"
+/>
+
 # *Coding Statistics*
 
 <p align="center">
@@ -41,7 +50,12 @@
 <img width="68%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nazchanel&layout=compact&theme=gotham&border_radius=20&border_color=960606&custom_title=Coding%20Time&langs_count=6"  alt=""/>
 </p>
 
-![Glowing Bar](/assets/glowing-bar-new.gif) 
+<img
+  width="100%"
+  alt="Rainbow"
+  src="assets/glowing-bar-new.gif"
+/>
+
 # *Currently Playing Song*
 <p align="center">
   <a href="https://nazchanel.pythonanywhere.com/?eq_color=rainbow&theme=dark&timeline=true">
@@ -52,4 +66,9 @@
   </a>
 </p>
 
-![Glowing Bar](/assets/glowing-bar-new.gif)
+
+<img
+  width="100%"
+  alt="Rainbow"
+  src="assets/glowing-bar-new.gif"
+/>
