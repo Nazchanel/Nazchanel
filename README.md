@@ -20,15 +20,20 @@
 <p align="center">
 
 <a href="https://eshaniyer.com" target="_blank">
-<img src=https://img.shields.io/badge/website-1b5568?&style=for-the-badge&logo=html5&logoColor=white alt=website style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/website-1b5568?&style=for-the-badge&logo=html5&logoColor=orange alt=website style="margin-bottom: 10px;" />
 </a>
 <a href="https://www.linkedin.com/in/eshaniyer" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>
-<a href="mailto:eshaniyer@duck.com" target="_blank">
+<a href="mailto:eshaniyer@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
-
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 alt=twitter style="margin-bottom: 10px;" />
+</a>
 </p>
 
 <img
