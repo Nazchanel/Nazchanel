@@ -10,8 +10,9 @@
 
 ## 👋 Hi, I’m [@Nazchanel](https://github.com/Nazchanel) or Eshan I.👋
 
-- I am a passionate coder who hopes to use code to make the world a better place
-- I use  Python, R, Java, Swift, HTML, CSS, and JavaScript and more
+- I am a passionate programmer who hopes to use code to make the world a better place
+- I particularly love creating APIs and libraries that make accessing data easy.
+- I mainly use Python, Java, HTML, CSS, and JavaScript and more. 
 - Undergraduate Freshman in Computer Science at the University of Maryland College Park
 
 <br>
