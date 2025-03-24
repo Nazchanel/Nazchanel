@@ -69,7 +69,7 @@ JSON   0 secs          ███████████████████
   src="assets/glowing-bar-new.gif"
 />
 
-# *Currently Playing Song*
+# [*Currently Playing Song*](https://github.com/Nazchanel/spotify-readme-nazchanel) (My Fork)
 <p align="center">
   <a href="https://nazchanel.pythonanywhere.com/?eq_color=rainbow&theme=dark&timeline=true">
     <img
