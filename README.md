@@ -13,7 +13,7 @@
 - I am a passionate programmer who hopes to use code to make the world a better place
 - I particularly love creating APIs and libraries that make accessing data easy.
 - I mainly use Python, Java, HTML, CSS, and JavaScript and more. 
-- Undergraduate Freshman in Computer Science at the University of Maryland College Park
+- Undergraduate Sophomore in Computer Science at the University of Maryland College Park ('27)
 
 <br>
 
