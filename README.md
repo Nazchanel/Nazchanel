@@ -37,11 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C          1 hr 8 mins     ██████████████████▒░░░░░░   73.17 %
-Bash       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Makefile   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Org        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
