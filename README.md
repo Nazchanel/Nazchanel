@@ -37,7 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C          25 mins         ████████████░░░░░░░░░░░░░   48.00 %
+Text       20 mins         █████████▓░░░░░░░░░░░░░░░   38.50 %
+Assembly   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
