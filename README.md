@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OCaml   56 mins               █████████████████████████   100.00 %
+OCaml   1 hr 36 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
