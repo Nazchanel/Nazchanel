@@ -37,7 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+OCaml    50 mins               ████████████████████████▓   99.24 %
+Other    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Python   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
