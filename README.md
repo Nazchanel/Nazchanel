@@ -37,10 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   1 min                 ████████████▓░░░░░░░░░░░░   50.22 %
-Kotlin       1 min                 ████████▒░░░░░░░░░░░░░░░░   33.51 %
-Batchfile    0 secs                ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Other        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
